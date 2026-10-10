@@ -1,0 +1,6 @@
+{
+  "name": "招远黄金马拉松·半马备赛训练计划",
+  "description": "山东招远黄金马拉松半马备赛训练计划H5，涵盖走路康复预备期、5周跑步备赛课表、比赛日配速策略、安全红线及每日训练手机闹钟提醒。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
